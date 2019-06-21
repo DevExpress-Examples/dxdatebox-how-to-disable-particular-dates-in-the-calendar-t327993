@@ -3,6 +3,9 @@
 
 <!-- default file list end -->
 # dxDateBox - How to disable particular dates in the calendar
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t327993)**
+<!-- run online end -->
 
 
 <p>Currently, dxDateBox does not provide API that allows you to disable specific dates: <a href="https://www.devexpress.com/Support/Center/p/T260958">T260958: dxDateBox - Is it possible to disable dates?</a>. However, it is possible to implement a workaround. The main idea is to select elements with necessary content by using jQuery and disable them. To get the information about a particular calendar cell, use the "aria-label" attribute (this is the most convenient way to determine the day of the week for a particular cell) or any other HTML attribute that meets your requirements (for instance, "data-value").</p>
