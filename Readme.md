@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # dxDateBox - How to disable particular dates in the calendar
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t327993)**
+**[[Run Online]](https://codecentral.devexpress.com/t327993/)**
 <!-- run online end -->
 
 
